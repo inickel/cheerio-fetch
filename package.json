@@ -1,0 +1,24 @@
+{
+  "name": "cheerio-fetch",
+  "version": "1.0.0",
+  "description": "extends cheerio with fetch",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "cheerio",
+    "fetch"
+  ],
+  "author": "nickel@live.cn",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.22.0",
+    "node-fetch": "^1.6.3"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "mocha": "^3.2.0",
+    "should": "^11.2.1"
+  }
+}
